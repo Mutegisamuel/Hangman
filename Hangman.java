@@ -13,7 +13,8 @@ public class Hangman {
         }
         i++;
     }
-    System.out.print 
+    System.out.print(filler);
+    System.out.println("    Life remaining=" + life); 
   }
 
 
